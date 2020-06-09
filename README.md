@@ -1,7 +1,7 @@
 # CheeseFinder
 Basic example of RxJava for starters
 
-## Used Classes/Interfaces (Most Noticable)
+## Used Classes/Interfaces (Most remarkable)
 > Observable    
 > ObservableEmitter   
 > ObservableOnSubscribe   
